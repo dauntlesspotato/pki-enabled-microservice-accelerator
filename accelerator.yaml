@@ -1,9 +1,10 @@
 accelerator:
-  displayName: Cert/CA Starter Kit
-  description: Starter kit for a microservice utilizing certificate best practices.
+  displayName: PKI-Protected Microservice
+  description: Starter kit for a microservice that is secured using PKI.
   iconUrl: https://<git repo>/padlock.png
   tags:
   - simple
   - getting-started
   - ATO-Fast-Track
   - certificates
+  - PKI
